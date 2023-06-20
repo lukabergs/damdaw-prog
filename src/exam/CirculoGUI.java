@@ -1,3 +1,5 @@
+package exam;
+
 // Importamos las librerias necesarias
 import java.awt.*;
 import javax.swing.*;
@@ -13,7 +15,7 @@ public class CirculoGUI {
 
    // Programa principal
    public static void main(String[] args) {
-      CirculoGUI gui = new CirculoGUI(COLORES);
+      new CirculoGUI(COLORES);
    }
    
    public CirculoGUI(String[] colores) {

@@ -13,7 +13,7 @@ Enlace autoevaluacion: https://docs.google.com/document/d/164-_sJ7bYya-C-WXvYewa
 
 *******************************************************************************************************************/
 
-package v1;
+package ud09.te01;
 
 import javax.swing.*;
 import java.awt.*;

@@ -27,7 +27,7 @@
 * 
 */
 
-package v1;
+package ud01.te01;
 
 public class MoscaMora {
     

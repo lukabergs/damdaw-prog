@@ -14,7 +14,7 @@ Enlace autoevaluacion: https://docs.google.com/document/d/164-_sJ7bYya-C-WXvYewa
 
 *******************************************************************************************************************/
 
-package v1;
+package ud09.te01;
 
 import java.util.*;
 import java.io.*;
@@ -49,7 +49,7 @@ public class TweetGUI implements ActionListener {
     public static final String ERROR_LECTURA_FICHERO = "Se ha producido un error al leer el fichero";
 
     // Rutas
-    public static final String RUTA_FICHERO_TWEETS = "tweets.txt";
+    public static final String RUTA_FICHERO_TWEETS = "res/ud09/te01/tweets.txt";
 
 // ATRIBUTOS
 

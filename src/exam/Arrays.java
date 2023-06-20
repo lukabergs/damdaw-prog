@@ -1,3 +1,5 @@
+package exam;
+
 public class Arrays {
     public static void main(String[] args) {
         int[] a = {2,4,6,8,10,15,16,17,18,19};

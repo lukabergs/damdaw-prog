@@ -2,7 +2,7 @@
 
 Nombre:   Luka Bergaretxe
 Fecha:    2023/04/24
-Módulo:   Programacion
+Mï¿½dulo:   Programacion
 UD:       09
 Tarea:    E01
 
@@ -13,7 +13,7 @@ Enlace autoevaluacion: https://docs.google.com/document/d/164-_sJ7bYya-C-WXvYewa
                               
 *******************************************************************************************************************/
 
-package v1;
+package ud09.te01;
 
 // Librerias para manejar objetos de la clase Date
 import java.text.*;
